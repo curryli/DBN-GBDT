@@ -1,0 +1,9 @@
+pip install theano
+pip install Image
+
+安装g++并配置好环境变量
+安装https://www.continuum.io/downloads 
+或者https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
+如果编译有问题
+conda install libpython
+import theano
